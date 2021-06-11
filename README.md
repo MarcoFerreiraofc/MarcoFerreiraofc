@@ -1,19 +1,13 @@
-### Hi there 👋
+✨ Bem vindo ao meu Perfil ✨
 
-<!--
-**MarcoFerreiraofc/MarcoFerreiraofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marco Antonio e tenho 17 anos 🎉
 
-Here are some ideas to get you started:
+No momento sou estudante da Escola Senai de Informática e estou em busca de experiências na área de desenvolvedor 👨‍💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Possuo Conhecimento em:
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
 ### Habilidades:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
