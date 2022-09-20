@@ -2,7 +2,7 @@
 
 Meu nome é Marco Antonio e tenho 19 anos 🎉
 
-No momento sou estudante da Escola Senai de Informática e estou em busca de experiências na área de desenvolvedor 👨‍💼
+Fui estudante da Escola Senai de Informática e estou em busca de experiências na área de desenvolvedor 👨‍💼
 
 ### Possuo Conhecimento em:
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
